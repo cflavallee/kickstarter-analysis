@@ -8,7 +8,7 @@ The purpose of this analysis is to provide the best information possible to info
 The analysis provided clear indications of how to launch a successful Kistarter campaign.  
 
 ### Analysis of Outcomes Based on Launch Date
-![Launch Date](C:/Users/clava/DAP/Crowdfunding Data Analysis/Resources/Theater_Outcomes_vs_Launch)
+![Launch Date](https://github.com/cflavallee/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 The most number of successful campaigns occured in May, June, and July.  However, those were also the months with the most overall campaigns.  As a percentage, May (67%) was the most successful month, followed by June(65%), while July(63%) tied with April(63%) and February(63%).
 
