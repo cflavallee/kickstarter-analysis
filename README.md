@@ -21,7 +21,9 @@ There was a negative correlation between goal amounts and the percentage of camp
 The challenge with this analysis is that it only looks at raw data, there is no qualitative analyis or further categorization of the type of Theater campaign was launched.
 
 ## Results
-** A campaign of less than $5,000 that launches in May or June has a higher probability of success. ** 
+```
+ A campaign of less than $5,000 that launches in May or June has a higher probability of success.
+``` 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. Campaigns launched in Late Spring/Early Summer have the highest success rate.
