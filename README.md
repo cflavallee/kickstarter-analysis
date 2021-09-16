@@ -1,2 +1,2 @@
 # An Analysis of Kickstarter Campaigns 
-Analysis of Theatre/Plays on Kickstarter
+Analysis of Theatre/Plays from Kickstarter
