@@ -15,7 +15,7 @@ The highest number of successful campaigns occured in May, June, and July.  Howe
 ### Analysis of Outcomes Based on Goals 
 ![Goals](https://github.com/cflavallee/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 #### **A Campaign Less Grand**
-There was a negative correlation between goal amounts and the percentage of campaigns that were successful, starting at the "Less than $1,000" range until the "$25,499 - $29,4999" range.  At that point, the success rate increases, however, there were only 11 projects with a goal above the $29,4999 level:  76% of campaigns had a goal of less than $5,000.
+There was a negative correlation between goal amounts and the percentage of campaigns that were successful, starting at the "Less than $1,000" range until the "$25,499 - $29,4999" range.  At that point, the success rate increases, however, there were only 11 projects with a goal above the $29,4999 level (76% of campaigns had a goal of less than $5,000).
 
 ### Challenges and Difficulties Encountered
 The challenge with this analysis is that it only looks at raw data; there is no qualitative analyis or further categorization of the type of Theater campaign was launched.  A further breakdown of successful campaign types should be considered prior to launching a campaign.
@@ -28,6 +28,7 @@ The challenge with this analysis is that it only looks at raw data; there is no 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 **1. Campaigns launched in Late Spring/Early Summer have the highest success rate.**
+
 **2. Do not launch a campaign in December.**
 
 - What can you conclude about the Outcomes based on Goals?
