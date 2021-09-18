@@ -27,19 +27,19 @@ The challenge with this analysis is that it only looks at raw data; there is no 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-**1. Campaigns launched in Late Spring/Early Summer have the highest success rate.**
+    **1. Campaigns launched in Late Spring/Early Summer have the highest success rate.**
 
-**2. Do not launch a campaign in December.**
+    **2. Do not launch a campaign in December.**
 
 - What can you conclude about the Outcomes based on Goals?
 
- **If possible, set your goal at or below $5,000.**
+    **If possible, set your goal at or below $5,000.**
 
 - What are some limitations of this dataset?
 
-**Analysis of reasons for failure other than Launch Date and Goal Amount.**
+    **Analysis of reasons for failure other than Launch Date and Goal Amount.**
 
 - What are some other possible tables and/or graphs that we could create?
 
-**A table and graph specifically related to plays in the US.**
+    **A table and graph specifically related to plays in the US.**
 
